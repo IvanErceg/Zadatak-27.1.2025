@@ -11,6 +11,7 @@ public class Main {
 
 
         //ZADATAK 1
+        //Upiši broj npr 234 i onda zadatak neka zbroji znamenke to broja npr u ovom slučaju je taj zbroj 9 odnosno 2+3+4
         System.out.println("ZADATAK 1 ");
         Scanner scann=new Scanner(System.in);
         System.out.println("Unesi broj:");
@@ -33,6 +34,7 @@ public class Main {
 
 
         //ZADATAK 2
+        //Napravi sumu brojeva koji su djeljivi sa 7
         System.out.println("ZADATAK 2 ");
 
         int i=1;
